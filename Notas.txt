@@ -1,0 +1,11 @@
+¿Con qué tecnología trabajaremos en el curso?
+Luego de investigar y consultar la demanda requerida de las empresas vs las tecnologías mas utilizadas en Argentina, utilizaremos las siguientes tecnologías:
+Para Front End:  
+
+Estructura y estilos: HTML, CSS y framework como Bootstrap
+Lenguaje programación: TypeScrypt y el framework  como Angular ambos basados en Javascript
+Para Back End: 
+
+Base de datos: Usaremos MySQL
+Lenguaje: Java con Framework Spring Boot
+Web server: Apache Tomcat
